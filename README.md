@@ -19,9 +19,11 @@
 
 * **PROMETHEUS Dockerfile**:-
 
-![Screenshot (173)](https://user-images.githubusercontent.com/64469896/93336057-e021d680-f844-11ea-8b3e-772a9392a9e9.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/64469896/93336121-f6c82d80-f844-11ea-87d3-1ed734349240.png)
 
 * _Build image of prometheus which is in Dockerfile_
+
+![Screenshot (173)](https://user-images.githubusercontent.com/64469896/93336057-e021d680-f844-11ea-8b3e-772a9392a9e9.png)
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/64469896/93336075-e617b780-f844-11ea-8252-8a954dedea61.png)
 
@@ -29,6 +31,6 @@
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/64469896/93336108-f2037980-f844-11ea-9169-3bacd0339b4e.png)
 
-![Screenshot (177)](https://user-images.githubusercontent.com/64469896/93336121-f6c82d80-f844-11ea-87d3-1ed734349240.png)
+
 
 
