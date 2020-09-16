@@ -11,3 +11,8 @@
 `3.`  _**And both of them should be exposed to outside world**_.
 
 ---
+
+### _PREREQUISITE_:-
+                   * RHel-8  * Docker  * Kubernetes  * Prometheus  * Grafana
+                   
+---                   
