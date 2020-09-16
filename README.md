@@ -16,3 +16,12 @@
                    * RHel-8  * Docker  * Kubernetes  * Prometheus  * Grafana
                    
 ---                   
+
+* **PROMETHEUS Dockerfile**:-
+
+
+
+* _Build image of prometheus which is in Dockerfile_
+
+
+
