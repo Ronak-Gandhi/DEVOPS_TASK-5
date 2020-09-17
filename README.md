@@ -37,10 +37,17 @@
 
 * **`GRAFANA Dockerfile`**:-
 
-
+![Screenshot (198)](https://user-images.githubusercontent.com/64469896/93517486-26f8f480-f949-11ea-83cf-b6ad6704974e.png)
 
 * _Build Dockerfile of grafana container image_
 
+![Screenshot (168)](https://user-images.githubusercontent.com/64469896/93517516-311af300-f949-11ea-8403-b36ce8c9e4cb.png)
+
+![Screenshot (169)](https://user-images.githubusercontent.com/64469896/93517519-31b38980-f949-11ea-88dd-9d02bfebb02d.png)
+
+![Screenshot (170)](https://user-images.githubusercontent.com/64469896/93517512-2fe9c600-f949-11ea-99a2-a680095b837a.png)
+
+![Screenshot (171)](https://user-images.githubusercontent.com/64469896/93517591-4d1e9480-f949-11ea-8e60-ae2461b5b8c2.png)
 
 
 
