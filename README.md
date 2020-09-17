@@ -34,8 +34,9 @@
 
 * _After that,I pushed prometheus image on Dockerhub_:-
 
+![Screenshot (201)](https://user-images.githubusercontent.com/64469896/93518484-7ab80d80-f94a-11ea-90ed-0aebd7c1ebc7.png)
 
-
+---
 
 * **`GRAFANA Dockerfile`**:-
 
@@ -54,6 +55,6 @@
 
 * _After that,I pushed prometheus image on Dockerhub_:-
 
+![Screenshot (202)](https://user-images.githubusercontent.com/64469896/93518502-7e4b9480-f94a-11ea-9897-5f05738b2f9c.png)
 
-
-
+---
