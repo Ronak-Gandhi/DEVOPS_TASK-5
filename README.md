@@ -31,6 +31,7 @@
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/64469896/93336108-f2037980-f844-11ea-9169-3bacd0339b4e.png)
 
+
 * _After that,I pushed prometheus image on Dockerhub_:-
 
 
@@ -50,6 +51,7 @@
 ![Screenshot (171)](https://user-images.githubusercontent.com/64469896/93517591-4d1e9480-f949-11ea-8e60-ae2461b5b8c2.png)
 
 
+* _After that,I pushed prometheus image on Dockerhub_:-
 
 
 
