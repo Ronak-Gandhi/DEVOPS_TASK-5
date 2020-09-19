@@ -56,6 +56,16 @@
 
 * _**yml file of Prometheus**_!!
 
+![Screenshot (227)](https://user-images.githubusercontent.com/64469896/93686675-69e7d300-fad5-11ea-87d3-c728d3e92375.png)
+
+![Screenshot (228)](https://user-images.githubusercontent.com/64469896/93686670-67857900-fad5-11ea-8043-83a8f7cafb22.png)
+
+
+* _**yml file of Grafana**_!!
+
+![Screenshot (229)](https://user-images.githubusercontent.com/64469896/93686674-694f3c80-fad5-11ea-92be-a6ba98434edc.png)
+
+![Screenshot (230)](https://user-images.githubusercontent.com/64469896/93686683-75d39500-fad5-11ea-9980-b4ddfe196c56.png)
 
 
 
