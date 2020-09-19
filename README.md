@@ -21,6 +21,7 @@
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/64469896/93336121-f6c82d80-f844-11ea-87d3-1ed734349240.png)
 
+
 * _Build Dockerfile of prometheus container image_
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/64469896/93336057-e021d680-f844-11ea-8b3e-772a9392a9e9.png)
@@ -32,15 +33,13 @@
 ![Screenshot (176)](https://user-images.githubusercontent.com/64469896/93336108-f2037980-f844-11ea-9169-3bacd0339b4e.png)
 
 
-* _After that,I pushed prometheus image on Dockerhub_:-
-
-![Screenshot (201)](https://user-images.githubusercontent.com/64469896/93518484-7ab80d80-f94a-11ea-90ed-0aebd7c1ebc7.png)
-
 ---
+
 
 * **`GRAFANA Dockerfile`**:-
 
-![Screenshot (198)](https://user-images.githubusercontent.com/64469896/93517486-26f8f480-f949-11ea-83cf-b6ad6704974e.png)
+![Screenshot (198)](https://user-images.githubusercontent.com/64469896/93517486-26f8f480-f949-11ea-83cf-b6ad6704974e.png) 
+
 
 * _Build Dockerfile of grafana container image_
 
@@ -53,9 +52,10 @@
 ![Screenshot (171)](https://user-images.githubusercontent.com/64469896/93517591-4d1e9480-f949-11ea-8e60-ae2461b5b8c2.png)
 
 
-* _After that,I pushed prometheus image on Dockerhub_:-
-
-![Screenshot (202)](https://user-images.githubusercontent.com/64469896/93518502-7e4b9480-f94a-11ea-9897-5f05738b2f9c.png)
-
 ---
+
+* _**yml file of Prometheus**_!!
+
+
+
 
